@@ -388,3 +388,5 @@ during the workshop.
 {% include install_instructions/python.html %}
 
 {% include install_instructions/packages.html %}
+
+{% include install_instructions/data.html %}
