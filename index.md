@@ -97,6 +97,15 @@ workshop is only open to people from a particular institution.
   This workshop is intended for researchers who are familiar with Python and the basics of Machine Learning.
 </p>
 
+{% comment %}
+PREREQUIRED KNOWLEDGE
+
+{% endcomment %}
+<p id="prerequired">
+  <strong>Prerequired knowledge:</strong>
+  Basic Python programming skills and familiarity with the Pandas package.
+  Basic knowledge on Machine learning, including the following concepts: Data cleaning, train & test split, type of problems (regression, classification), overfitting & underfitting, metrics (accuracy, recall, etc.).
+</p>
 
 
 {% comment %}
